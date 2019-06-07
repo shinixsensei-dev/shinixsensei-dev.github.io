@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-      background: #fff;
+      background: #23272A;
 }
 
 .temp {
@@ -68,7 +68,7 @@ body {
       position: absolute;
       width: 0%;
       height: 100vh;
-      background: #B08D74;
+      background: #7289DA;
       animation: go-left 3.2s cubic-bezier(.74, .06, .4, .92) forwards;
       animation-delay: 3s;
 }
@@ -150,7 +150,7 @@ body {
       position: absolute;
       width: 0%;
       height: 100vh;
-      background: #F0F0F0;
+      background: #2C2F33;
       animation: expandNow 1.4s cubic-bezier(0.19, 1, 0.22, 1) forwards;
       animation-delay: 6.2s;
 }
@@ -180,6 +180,7 @@ body {
       text-transform: uppercase;
       font-weight: bolder;
       font-size: 18px;
+      color: #FFFFFF;
 }
 
 .content {
@@ -189,6 +190,7 @@ body {
       left: 28%;
       transform: translate(-50%, -50%);
       text-align: left;
+      color: #fff;
 }
 
 .heading {
@@ -212,7 +214,7 @@ button {
       padding: 16px 40px;
       letter-spacing: 2px;
       text-transform: uppercase;
-      background: #B08D74;
+      background: #7289DA;
       color: #fff;
 }
 
